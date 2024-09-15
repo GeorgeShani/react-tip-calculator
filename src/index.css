@@ -19,3 +19,13 @@ button, input {
 button {
     cursor: pointer;
 }
+
+input {
+    text-align: right;
+    direction: ltr;    
+    unicode-bidi: bidi-override;
+}
+
+h3 {
+    margin: 0;
+}

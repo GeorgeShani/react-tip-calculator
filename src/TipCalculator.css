@@ -261,16 +261,6 @@
     background-color: #0D686D;
 }
 
-input {
-    text-align: right;
-    direction: ltr;    
-    unicode-bidi: bidi-override;
-}
-
-h3 {
-    margin: 0;
-}
-
 @media screen and (max-width: 1024px) {
     .tip-calculator-container {
         flex-direction: column;
